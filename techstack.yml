@@ -1,0 +1,123 @@
+repo_name: jmyx0225/toBeBetterJavaer
+report_id: a908f2bfeaf9ec891dde469b577beafe
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-29T03:11:06+00:00'
+requested_by: itwanger
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/dist/assets/encapsulation-inheritance-polymorphism.html-3577f299.js
+  detection_source: dist/assets/encapsulation-inheritance-polymorphism.html-3577f299.js
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:17:02.000000000 Z
+- name: Netty
+  description: Asynchronous event-driven network application framework
+  website_url: http://netty.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/3278/netty_icon_256px.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/dist/sidebar/sanfene/netty.html
+  detection_source: dist/sidebar/sanfene/netty.html
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:17:02.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:18:36.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:18:36.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:18:36.000000000 Z
+- name: VuePress
+  description: A static-site generator built by the Vue.js team
+  website_url: https://vuepress.vuejs.org/
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/8863/paeckCWC.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:18:36.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/jmyx0225/toBeBetterJavaer/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: itwanger
+  last_updated_on: 2024-05-31 22:18:36.000000000 Z
